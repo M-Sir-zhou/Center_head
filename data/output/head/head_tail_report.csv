@@ -1,0 +1,7 @@
+﻿文件名,子目录,类型,条纹得分,阈值,置信度
+h (1).jpg,input_is_head,TAIL,0.00,50.00,0.9000
+h (2).jpg,input_is_head,HEAD,100.00,50.00,0.9000
+h (3).jpg,input_is_head,HEAD,100.00,50.00,0.9000
+h (1).jpg,input_is_head,TAIL,0.00,50.00,0.9000
+h (2).jpg,input_is_head,HEAD,100.00,50.00,0.9000
+h (3).jpg,input_is_head,HEAD,100.00,50.00,0.9000
